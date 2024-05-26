@@ -1,0 +1,1 @@
+{"TestCase01: Verify Wikipedia Homepage URL": "TEST_STATUS_SUCCESS", "TestCase02: Verify Wikipedia Header and Footer": "TEST_STATUS_SUCCESS", "TestCase03: Verify the search functionality": "TEST_STATUS_SUCCESS", "TestCase04: Validate Hyperlink Functionality": "TEST_STATUS_SUCCESS", "TestCase05: Verify 'About Wikipedia' Link and URL in Dropdown": "TEST_STATUS_SUCCESS"}
